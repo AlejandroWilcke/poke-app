@@ -1,4 +1,10 @@
-Pokemon app using NextJS + Typescript + GraphQL
+Pokemon app using NextJS + Typescript + GraphQL + Tailwind
+
+Setup:
+
+```bash
+npm install
+```
 
 Development server:
 
